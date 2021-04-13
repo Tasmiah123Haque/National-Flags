@@ -1,24 +1,18 @@
 body{
-    background-color: #fff;
-    margin: 0;
-    padding: 0;
+    background-color: grey;
 } 
-.box{
-    position: absolute;
-    width:10cm;
-    height:6cm;
-    background-color:green;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+.flag1{
+    padding: 100px;
+    background-color: red;
+    margin:top:5rem;;
+    margin-left: 20rem;
+    margin-right:20rem;
 } 
-.circle{
-    position: relative;
-    width: 4cm;
-    height: 4cm;
-    background:red;
-    border-radius:50%;
-    top:50%;
-    left:50%;
-    transform: translate(-50%,-50%);
+
+.flag2{
+    padding: 100px;
+    background-color:white;
+    margin:top:5rem;;
+    margin-left: 20rem;
+    margin-right:20rem;
 }
